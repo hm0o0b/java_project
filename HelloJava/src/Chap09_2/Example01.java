@@ -1,0 +1,12 @@
+//package Chap09_2;
+//
+//public class Example01 {
+//
+//	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+//		
+//		Animal myObj = new Animal();
+//
+//	}
+//
+//}
